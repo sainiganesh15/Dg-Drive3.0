@@ -147,14 +147,14 @@ To use the Dappazon marketplace, you can run the following commands in the termi
 
 #### Install dependencies ####
 ```
-cd Dappazon
+cd Dg-Drive3.0
 npm install
 ```
 
 #### Start the local development server ####
 ```
 npm start
-Once the server is running, you can access the Dappazon 
+Once the server is running, you can access the Dg-Drive3.0
 marketplace by navigating to http://localhost:3000 in your web browser.
 ```
 
