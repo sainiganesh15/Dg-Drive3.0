@@ -139,7 +139,7 @@ npx hardhat run scripts/deploy.js --network localhost
 This will deploy your smart contract to the local development network.
 
 ## Usage
-To use the Dappazon marketplace, you can run the following commands in the terminal:
+To use the Dg-Drive3.0 marketplace, you can run the following commands in the terminal:
 
 
 #### Clone the repository ####
